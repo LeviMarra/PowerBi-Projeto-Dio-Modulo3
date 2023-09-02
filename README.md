@@ -11,14 +11,16 @@ a)- Apenas um dos Colaboradores não tem números de referência em Super_ssn, e
 
 b)- Todas as modificações e transformações de daods foram feitos usando o Power Query.
 
-c)- Descrição das Consultas - Organização de dados do banco de dados existente.
+c)
+- Descrição das Consultas - Organização de dados do banco de dados existente.
 -Departments - Organização dos dados dos nomes dos departamentos existentes na empresa e os gerentes responsáveis.
 -Dependents - Nome dos Colaboradores com seus respectivos dependentes.
 -Departments/Locations - Os nomes dos departamentos e da cidade onde estão inseridos. Há cidades com mais de 1 departamento diferente e  o mesmo departamento presente em várias cidades diferentes.
 -Employees - Consulta com todas as informações dos colaboradores.
 -Projects - Consulta com todos os nomes dos projetos existentes, a cidade e o departamente onde estão inseridos.
 
-d)- Descrição das Consultas - Criação de Consultas Específicas para o Desafio.
+d)
+- Descrição das Consultas - Criação de Consultas Específicas para o Desafio.
 -Employees/Department - Consulta mesclada com cada Colaborador e o Departamento/Cidade onde estão inseridos.
 -Hours/Project - Consulta com os nomes dos projetos e quantas horas cada projeto está sendo trabalhado.
 -Employees/Gerentes - Consulta junção com nome dos colaboradores e o nomes dos gerentes responsáveis.
