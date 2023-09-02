@@ -13,20 +13,20 @@ b)- Todas as modificações e transformações de daods foram feitos usando o Po
 
 c)
 - Descrição das Consultas - Organização de dados do banco de dados existente.
--Departments - Organização dos dados dos nomes dos departamentos existentes na empresa e os gerentes responsáveis.
--Dependents - Nome dos Colaboradores com seus respectivos dependentes.
--Departments/Locations - Os nomes dos departamentos e da cidade onde estão inseridos. Há cidades com mais de 1 departamento diferente e  o mesmo departamento presente em várias cidades diferentes.
--Employees - Consulta com todas as informações dos colaboradores.
--Projects - Consulta com todos os nomes dos projetos existentes, a cidade e o departamente onde estão inseridos.
+- Departments - Organização dos dados dos nomes dos departamentos existentes na empresa e os gerentes responsáveis.
+- Dependents - Nome dos Colaboradores com seus respectivos dependentes.
+- Departments/Locations - Os nomes dos departamentos e da cidade onde estão inseridos. Há cidades com mais de 1 departamento diferente e  o mesmo departamento presente em várias cidades diferentes.
+- Employees - Consulta com todas as informações dos colaboradores.
+- Projects - Consulta com todos os nomes dos projetos existentes, a cidade e o departamente onde estão inseridos.
 
 d)
 - Descrição das Consultas - Criação de Consultas Específicas para o Desafio.
--Employees/Department - Consulta mesclada com cada Colaborador e o Departamento/Cidade onde estão inseridos.
--Hours/Project - Consulta com os nomes dos projetos e quantas horas cada projeto está sendo trabalhado.
--Employees/Gerentes - Consulta junção com nome dos colaboradores e o nomes dos gerentes responsáveis.
--Projects/Employees/WorkHours - Consulta com quantas horas cada colaborar empreendeu em cada projeto.
--Gerentes/Associados - Nomes dos gerentes e o número de colaboradores associados a cada um deles.
--Employees/Hours Project - Nomes dos colaboradores e de quantas horas AO TODO eles empreenderam em projetos, sem diferenciar por projeto.
+- Employees/Department - Consulta mesclada com cada Colaborador e o Departamento/Cidade onde estão inseridos.
+- Hours/Project - Consulta com os nomes dos projetos e quantas horas cada projeto está sendo trabalhado.
+- Employees/Gerentes - Consulta junção com nome dos colaboradores e o nomes dos gerentes responsáveis.
+- Projects/Employees/WorkHours - Consulta com quantas horas cada colaborar empreendeu em cada projeto.
+- Gerentes/Associados - Nomes dos gerentes e o número de colaboradores associados a cada um deles.
+- Employees/Hours Project - Nomes dos colaboradores e de quantas horas AO TODO eles empreenderam em projetos, sem diferenciar por projeto.
 
 ## 3ª Etapa
 Criação de uma Relatório Básico Ilustrativo com os dados Transformados.
