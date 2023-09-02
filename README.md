@@ -1,12 +1,12 @@
 # PowerBi-Projeto-Dio-Modulo3
 
-## 1ª Etapa
-Criação de uma instância na Azure para MySQL
-Criar o Banco de dados com base disponível no github
-Integração do Power BI com MySQL no Azure
-Verificar problemas na base a fim de realizar a transformação dos dados
+## 1ª Etapa - Criação do Banco de Dados
+- Criação de uma instância na Azure para MySQL.
+- Criar o Banco de dados com base disponível no github, fazendo a criação de tabelas e a inserção dos dados todos através do Bash do Cloud Shell com linguagem SQL.
+- Integração do Power BI com MySQL no Azure.
+- Verificar problemas na base a fim de realizar a transformação dos dados.
 
-## 2ª Etapa 
+## 2ª Etapa - Transformação e tratamento dos dados
 a)- Apenas um dos Colaboradores não tem números de referência em Super_ssn, e isso ocorre porque ele é o Gerente Geral e não tem ninguém acima dele.
 
 b)- Todas as modificações e transformações de daods foram feitos usando o Power Query.
