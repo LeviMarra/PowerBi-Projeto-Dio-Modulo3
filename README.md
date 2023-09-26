@@ -1,4 +1,4 @@
-# PowerBi-Projeto-Dio-Modulo3
+# ProjetoDio-CriandoBandodeDados
 
 ## 1ª Etapa - Criação do Banco de Dados
 - Criação de uma instância na Azure para MySQL.
